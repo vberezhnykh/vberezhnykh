@@ -15,7 +15,8 @@
 
 <h3 align="left">Badges:</h3>
 
-<a href="https://www.codewars.com/users/vberezhnykh" target="_blank"><img src="https://www.codewars.com/users/rsschool_e5b2fc6b64dd4627/badges/small"></a>
+<a href="https://www.codewars.com/users/vberezhnykh" target="_blank"><img src="https://www.codewars.com/users/vberezhnykh/badges/small"></a>
+
 
 -----------------------------------------------------------------------------------------------
 
