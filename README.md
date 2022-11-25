@@ -1,6 +1,6 @@
 <h3 align="center">Frontend developer</h3>
 
-🔭 I'm working on [Songbird project](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/songbird/songbird-2022q3.md)
+🔭 I'm working on [Core JS 101](https://github.com/vberezhnykh/core-js-101)
 
 🌱 I'm studying at [RS School](https://rs.school/js/)
 
