@@ -1,6 +1,6 @@
 <h3 align="center">Frontend developer</h3>
 
-🔭 I'm working on [Core JS 101](https://github.com/vberezhnykh/core-js-101)
+🔭 I'm working on [Build JavaScript applications using TypeScript](https://learn.microsoft.com/ru-ru/training/paths/build-javascript-applications-typescript/)
 
 🌱 I'm studying at [RS School](https://rs.school/js/)
 
