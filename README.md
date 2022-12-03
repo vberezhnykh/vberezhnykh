@@ -1,6 +1,6 @@
 <h3 align="center">Frontend developer</h3>
 
-🔭 I'm working on [Build JavaScript applications using TypeScript](https://learn.microsoft.com/ru-ru/training/paths/build-javascript-applications-typescript/)
+🔭 I'm working on [News API](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/migration-newip-to-ts.md)
 
 🌱 I'm studying at [RS School](https://rs.school/js/)
 
