@@ -1,6 +1,6 @@
 <h3 align="center">Frontend developer</h3>
 
-🔭 I'm working on [News API](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/migration-newip-to-ts.md)
+🔭 I'm working on [Online Store](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/online-store-team)
 
 🌱 I'm studying at [RS School](https://rs.school/js/)
 
