@@ -1,8 +1,8 @@
 <h3 align="center">Software developer</h3>
 
-🔭 I'm working on [RS Clone](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rsclone/rsclone.md)
+🔭 I'm working on [React. Components](https://github.com/rolling-scopes-school/tasks/tree/master/react/modules/module01)
 
-🌱 I'm studying at [RS School](https://rs.school/js/)
+🌱 I'm studying at [RS School](https://rs.school/react/)
 
 -----------------------------------------------------------------------------------------------
 
