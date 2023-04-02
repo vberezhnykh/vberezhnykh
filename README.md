@@ -1,6 +1,6 @@
 <h3 align="center">Software developer</h3>
 
-🔭 I'm working on [React. Hooks](https://github.com/rolling-scopes-school/tasks/tree/master/react/modules/module03)
+🔭 I'm working on [React. Api](https://github.com/rolling-scopes-school/tasks/tree/master/react/modules/module04)
 
 🌱 I'm studying at [RS School](https://rs.school/react/)
 
