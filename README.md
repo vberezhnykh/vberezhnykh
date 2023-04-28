@@ -10,11 +10,22 @@ My <a href="https://docs.google.com/document/d/1D6S2GB6zhGqh2rtk9uZKP6QT6fmZDISW
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white"> <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white"> <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white"> <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white"> <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white"></p>
 
 -----------------------------------------------------------------------------------------------
+
+<h3>Selected projects:</h3>
+<ul>
+  <li><b><a href="https://github.com/vberezhnykh/rs-clone">RS Clone</a></b>. A clone of the web application of the same name Hookah Mixer. A catalog of ready-made mixes for hookah. Stack: TS, SASS, Node, Express.</li>
+  <li><b><a href="https://github.com/vberezhnykh/rs-clone">Quiz</a></b>. Quiz, the essence of which is to guess the names of video games on their title topics. Stack: JS, SASS.</li>
+  <li><b><a href="https://github.com/vberezhnykh/momentum">Momentum</a></b>. An analogue of the Chrome Web Store app of the same name. Stack: JS, CSS.</li>
+  <li><b><a href="https://github.com/vberezhnykh/gem-puzzle">15 Puzzle</a></b>. 15 puzzle aka Gem Puzzle. Stack: JS, CSS.</li>
+</ul>
+
+-----------------------------------------------------------------------------------------------
 <h3>Certificates:</h3>
 <ul>
   <li><a href="https://app.rs.school/certificate/2u3zss0o" target="_blank">JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT)</a></li>
   <li><a href="https://app.rs.school/certificate/vi9yzvq5" target="_blank">JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)</a></li>
 </ul>
+
 -----------------------------------------------------------------------------------------------
 
 <h3 align="left">Contacts:</h3>
