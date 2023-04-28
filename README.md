@@ -15,7 +15,7 @@ My <a href="https://docs.google.com/document/d/1D6S2GB6zhGqh2rtk9uZKP6QT6fmZDISW
 <ul>
   <li><b><a href="https://github.com/vberezhnykh/rsschool-react">React App</a></b>. A small learning project to explore the features of the React library. <b>Stack</b>: TS, SASS, Redux, RTK Query, React Router, React Hook Form, Node, Express, Vite, Vitest, React Testing Library, Cypress</li>
   <li><b><a href="https://github.com/vberezhnykh/rs-clone">RS Clone</a></b>. A clone of the web application of the same name Hookah Mixer. A catalog of ready-made mixes for hookah. <b>Stack</b>: TS, SASS, Node, Express.</li>
-  <li><b><a href="https://github.com/vberezhnykh/rs-clone">Quiz</a></b>. Quiz, the essence of which is to guess the names of video games on their title topics. <b>Stack</b>: JS, SASS.</li>
+  <li><b><a href="https://github.com/vberezhnykh/quiz-game">Quiz</a></b>. Quiz, the essence of which is to guess the names of video games on their title topics. <b>Stack</b>: JS, SASS.</li>
   <li><b><a href="https://github.com/vberezhnykh/momentum">Momentum</a></b>. An analogue of the Chrome Web Store app of the same name. <b>Stack</b>: JS, CSS.</li>
   <li><b><a href="https://github.com/vberezhnykh/gem-puzzle">15 Puzzle</a></b>. 15 puzzle aka Gem Puzzle. <b>Stack</b>: JS, CSS.</li>
   <li><b><a href="https://github.com/vberezhnykh/codejam-eldritch">Eldritch Horror</a></b>. A small helper app for the board game Eldritch Horror. <b>Stack</b>: JS, CSS.</li>
