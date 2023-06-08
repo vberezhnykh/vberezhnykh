@@ -26,6 +26,7 @@ My <a href="https://docs.google.com/document/d/1D6S2GB6zhGqh2rtk9uZKP6QT6fmZDISW
 -----------------------------------------------------------------------------------------------
 <h3>Certificates:</h3>
 <ul>
+  <li><a href="https://app.rs.school/certificate/oe0gp0ur" target="_blank">REACT 2023 Q1 (REACT)</a></li>
   <li><a href="https://app.rs.school/certificate/2u3zss0o" target="_blank">JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT)</a></li>
   <li><a href="https://app.rs.school/certificate/vi9yzvq5" target="_blank">JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT)</a></li>
 </ul>
