@@ -1,6 +1,6 @@
 <h3 align="center">Software developer</h3>
 
-I am an aspiring developer with an interest in frontend, Web and IT in general. I have more than one year of development experience. During this time, managed to implement several projects using both vanilla HTML, CSS and JS and modern development tools. At the moment I'm studying <a href='https://rs.school/nodejs/' target='_blank'>Node.js</a>.
+I am an aspiring developer with an interest in frontend, Web and IT in general. I have more than one year of development experience. During this time, managed to implement several projects using both vanilla HTML, CSS and JS and modern development tools.
 
 My <a href="https://docs.google.com/document/d/1D6S2GB6zhGqh2rtk9uZKP6QT6fmZDISWuhVg-Ubr4ZQ/edit?usp=sharing" target="_blank">CV</a>.
 
